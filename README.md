@@ -1,2 +1,2 @@
 # HtmlParsingC-.net
-Html parcing in C#
+Парсинг Html запроса в C# .NET в применении к проекту BVSDESKTOP
